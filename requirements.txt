@@ -1,0 +1,8 @@
+opencv-contrib-python
+mediapipe
+numpy<2
+gingerit
+Pillow
+pydantic<2
+tensorflow
+argostranslate==1.8.0

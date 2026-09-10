@@ -1,0 +1,6 @@
+opencv-contrib-python
+mediapipe
+numpy<2
+gingerit
+Pillow
+pydantic<2

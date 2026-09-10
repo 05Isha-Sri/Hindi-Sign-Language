@@ -1,0 +1,25 @@
+# Python virtual environments
+venv/
+venv_short/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and debug files
+*.log
+debug_output.txt
+traceback*.log
+deps_target.log
+argos_target.log
+mp_target.log
+tf_target.log
+
+# OS files
+.DS_Store
+
+# Installation/debug text logs
+install_log.txt
+log.txt
+
+
